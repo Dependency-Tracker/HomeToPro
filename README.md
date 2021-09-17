@@ -7,3 +7,4 @@ After rebooting it will add features and update
 This Application is open source, but you can't make a clone of it. Doing that is a violation of the law.
 # Source
 The source code is in the batch file
+The batch file contains the source of the old version!
